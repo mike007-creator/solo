@@ -10,7 +10,8 @@ Product Team").
 
 ## Communication preference
 
-Reply to Ben in Traditional Chinese (Taiwan usage, not Simplified).
+Reply to Ben in Traditional Chinese, Hong Kong usage (not Taiwan, not
+Simplified).
 
 ## Chain of command
 
