@@ -8,6 +8,10 @@ Reference: [ai_one_person_company_notes.md](ai_one_person_company_notes.md)
 (framework adapted from George Xing's "How I Build with AI as a 1-person
 Product Team").
 
+## Communication preference
+
+Reply to Ben in Traditional Chinese (Taiwan usage, not Simplified).
+
 ## Chain of command
 
 ```
